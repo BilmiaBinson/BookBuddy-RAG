@@ -1,0 +1,9 @@
+
+requests
+beautifulsoup4
+langchain-core
+langchain-chroma
+langchain-huggingface
+langchain-groq
+sentence-transformers
+chromadb
