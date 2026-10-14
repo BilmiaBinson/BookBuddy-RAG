@@ -7,3 +7,7 @@ langchain-huggingface
 langchain-groq
 sentence-transformers
 chromadb
+
+fastapi
+uvicorn
+python-dotenv
